@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="{{ "/assets/css/sidebar.css" | relative_url }}" media="screen and (min-width: 70em)">
 <aside style="display: none">
+  <div><p style="font-weight: normal; font-size: 2em; text-align: left;">ZJ Lew</p></div>
   <nav>
   {%- for item in site.navigation -%}
     {%- assign node = site.pages | where: "name", item.file | first -%}
@@ -7,7 +8,6 @@
     {%- assign title = item.title | default: node.title -%}
     {%- assign icon = item.icon | default: item.sidebaricon -%}
     <a aria-label="{{ title }}" href="{{ url | relative_url }}" {% if url == page.url %}class="selected"{% endif %}>
-      <svg aria-hidden="true" class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#{{ icon }}"></use></svg>
       <span aria-hidden="true">{{ title }}</span>
     </a>
   {%- endfor -%}
@@ -22,5 +22,5 @@
     </a>
   {%- endfor -%}
   </nav>
-  <div class="description">{{ site.description }}</div>
+  <div class="description" style="font-size: x-small;">{{ site.description }}</div>
 </aside>

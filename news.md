@@ -1,7 +1,7 @@
 ---
 title: "News"
 permalink: "/news/"
-layout: page
+layout: default
 ---
 
 {% if site.show_excerpts %}
