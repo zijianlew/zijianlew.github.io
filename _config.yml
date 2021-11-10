@@ -1,6 +1,6 @@
 title: "Lew"
 author: "Lew"
-description: "Last updated 08 Nov 2021"
+description: "Last updated 09 Nov 2021"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,8 +23,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:noemail@gmail.com"}
-#  - {title: Google Scholar, icon: google, url: "https://scholar.google.com/"}
-#  - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com"}
+  - {title: Google Scholar, icon: google, url: "https://scholar.google.com/"}
+  - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
