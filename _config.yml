@@ -25,6 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:noemail@gmail.com"}
   - {title: Google Scholar, icon: google, url: "https://scholar.google.com/"}
+  - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0003-1769-7898"}
   - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/"}
 
