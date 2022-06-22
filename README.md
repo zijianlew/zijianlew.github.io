@@ -103,10 +103,11 @@ Contrast comes preinstalled with a leightweight alternative to MathJax called [K
 1. Update bundle if needed:
 bundle update --bundler
 
-2. Change current directory
+2. Change current directory:
 cd [full local directory for Github repo]
 
-3. Serve locally
+3. Serve locally:
 bundler exec jekyll serve
 
+4. Enter in browser:
 http://localhost:4000/
