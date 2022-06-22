@@ -6,7 +6,7 @@ layout: page
 
 My research comprises two broad areas, XX and YY. 
 
-A list of my published research can be found on my [Google Scholar](https://scholar.google.com/){:target="_blank"} page.
+A list of my published research can be found on my [Google Scholar](https://scholar.google.com/citations?user=AdxYcLkAAAAJ&hl=en){:target="_blank"} page.
 
 ---
 
