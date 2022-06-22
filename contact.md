@@ -6,8 +6,10 @@ layout: page
 # Contact
 
 - qwerty@gmail.com
+- [Institutional Profile](https://google.com/){:target="_blank"}
 - [Google Scholar](https://scholar.google.com/){:target="_blank"}
 - [LinkedIn](https://www.linkedin.com){:target="_blank"}
+- [Twitter](https://twitter.com/){:target="_blank"}
 
 # Address
 
