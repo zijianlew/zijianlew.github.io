@@ -16,7 +16,7 @@ A list of my published research can be found on my [Google Scholar](https://scho
 
 Traditionally, studies on media effects have tended to ask, how does media selection or consumption affect audiences? But with the proliferation of social media today, a new line of research has emerged that reverses this traditional way of thinking. Research on self-effects asks, how does the sending of messages (e.g., on social media) influence the message senders themselves?
 
-The basic idea is this: The things that people say publicly demand some social commitment, as people's social media contacts may hold them accountable. How can we better understand the social and psychological mechanisms that lead to and result from social commitment? How can we apply this principle in order to, among other things, alter one's self-concept, encourage healthy behaviors, or reduce outgroup prejudice?
+The basic idea is this: The things that people say publicly demand some social commitment, as people's social media contacts may hold them accountable. How can we better understand the social and psychological mechanisms that lead to and result from social commitment? How can we apply this principle in order to, among other things, alter one's self-concept, encourage healthy behaviors, or change negative attitudes?
 
 ---
 
