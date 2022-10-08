@@ -1,6 +1,6 @@
 title: "Lew"
 author: "Lew"
-description: "Last updated 09 Nov 2021"
+description: "Last updated 08 Oct 2022"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -19,8 +19,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "research.md"}
   - {file: "teaching.md"}
-  - {file: "grants_awards.md"}
-  - {file: "service.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:noemail@gmail.com"}

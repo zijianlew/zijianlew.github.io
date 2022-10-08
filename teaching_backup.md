@@ -1,28 +1,15 @@
 ---
-title: "Research"
-permalink: "/research/"
+title: "Teaching"
+permalink: "/teaching_backup/"
 layout: page
 ---
-
-# To be updated soon; placeholders below
-
-My research comprises two broad areas, XX and YY. 
-
-A list of my published research can be found on my [Google Scholar](https://scholar.google.com/citations?user=AdxYcLkAAAAJ){:target="_blank"} page.
-
----
-
-## Project 1
-
-![toxic_positivity](/assets/images/toxic_positivity.png)
+## Course 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum arcu sed turpis egestas, et rutrum massa euismod. Sed scelerisque augue odio. Ut sagittis consectetur felis nec congue. Ut nec lobortis tellus. Praesent tempor odio ultricies neque bibendum, eu sollicitudin nisi maximus. Sed eu tellus varius, lobortis tellus vel, rutrum leo. Integer purus nisi, ornare id ipsum sit amet, ultricies posuere diam. Sed fermentum, justo non commodo viverra, diam risus posuere ipsum, eu aliquet odio felis scelerisque diam. Donec venenatis neque enim, sed dapibus ligula condimentum eu.
 
 ---
 
-## Project 2
-
-![self_effects](/assets/images/using_phone.png)
+## Course 2
 
 Sed interdum rhoncus auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer quam sapien, rhoncus a eleifend et, tempus at nisl. Donec ornare nisi in mauris egestas pellentesque non sed nisl. In posuere sapien mauris, vitae facilisis mi fermentum ac. Sed et nunc a diam ornare maximus ut condimentum dui. Sed felis elit, tincidunt ac dolor in, convallis gravida mi. Duis ac purus tortor.
 
