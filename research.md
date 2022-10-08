@@ -4,26 +4,24 @@ permalink: "/research/"
 layout: page
 ---
 
-# To be updated soon; placeholders below
-
-My research comprises two broad areas, XX and YY. 
+My research comprises two broad areas in online/social media contexts: self-effects and positivity. 
 
 A list of my published research can be found on my [Google Scholar](https://scholar.google.com/citations?user=AdxYcLkAAAAJ){:target="_blank"} page.
 
 ---
 
-## Project 1
+## Self-Effects
 
-![toxic_positivity](/assets/images/toxic_positivity.png)
+![self_effects](/assets/images/use_phone.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum arcu sed turpis egestas, et rutrum massa euismod. Sed scelerisque augue odio. Ut sagittis consectetur felis nec congue. Ut nec lobortis tellus. Praesent tempor odio ultricies neque bibendum, eu sollicitudin nisi maximus. Sed eu tellus varius, lobortis tellus vel, rutrum leo. Integer purus nisi, ornare id ipsum sit amet, ultricies posuere diam. Sed fermentum, justo non commodo viverra, diam risus posuere ipsum, eu aliquet odio felis scelerisque diam. Donec venenatis neque enim, sed dapibus ligula condimentum eu.
+Traditionally, studies on media effects have tended to ask, how does media selection or consumption affect audiences? But with the proliferation of social media today, a new line of research has emerged that reverses this traditional way of thinking. Research on self-effects asks, how does the sending of messages (e.g., on social media) influence the message senders themselves?
+
+The basic idea is this: The things that people say publicly demand some social commitment, as people's social media contacts may hold them accountable. How can we better understand the social and psychological mechanisms that lead to and result from social commitment? How can we apply this principle in order to, among other things, alter one's self-concept, encourage healthy behaviors, or reduce outgroup prejudice?
 
 ---
 
-## Project 2
+## Toxic Positivity
 
-![self_effects](/assets/images/using_phone.png)
+![toxic_positivity](/assets/images/toxic_positivity_small.png)
 
-Sed interdum rhoncus auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer quam sapien, rhoncus a eleifend et, tempus at nisl. Donec ornare nisi in mauris egestas pellentesque non sed nisl. In posuere sapien mauris, vitae facilisis mi fermentum ac. Sed et nunc a diam ornare maximus ut condimentum dui. Sed felis elit, tincidunt ac dolor in, convallis gravida mi. Duis ac purus tortor.
-
-Vestibulum non arcu eu tortor imperdiet convallis ac vitae est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed at ultrices felis. Quisque commodo pulvinar orci, sed aliquet enim laoreet id. Maecenas eu dolor ac leo pellentesque vulputate et ut massa. Donec sagittis blandit diam ac venenatis. Fusce et erat quis nulla luctus lobortis at eget sem. Curabitur eleifend vel lectus pellentesque semper.
+Showing that one is confident, successful, having a good time, or good looking has become the norm on social media. People appear to lead perfect lives. But can these near-perfect online self-presentations ironically lead to negative outcomes: perhaps feelings of inauthenticity for a message creator, or envy in an audience member? This line of research aims to rethink what it means to optimize one's online self-presentations and avoid contributing to a toxic social media environment.
