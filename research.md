@@ -6,6 +6,8 @@ layout: page
 
 My research comprises two broad areas in online/social media contexts: self-effects and toxic positivity. 
 
+[Get in touch](mailto:zlew@ntu.edu.sg) if you'd like to work together.
+
 A list of my published research can be found on my [Google Scholar](https://scholar.google.com/citations?user=AdxYcLkAAAAJ){:target="_blank"} page.
 
 ---
