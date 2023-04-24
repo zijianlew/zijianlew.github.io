@@ -4,7 +4,7 @@ permalink: "/research/"
 layout: page
 ---
 
-My research comprises two broad areas in online/social media contexts: self-effects and toxic positivity. 
+My research comprises two broad areas in online/social media contexts: self-effects and meaningfulness in media. 
 
 [Get in touch](mailto:zlew@ntu.edu.sg) if you'd like to work together.
 
@@ -22,8 +22,10 @@ The basic idea is this: The things that people say publicly demand some social c
 
 ---
 
-## Toxic Positivity
+## Meaningfulness in Media
 
 ![toxic_positivity](/assets/images/toxic_positivity_small.png)
 
-Showing that one is confident, successful, having a good time, or good looking has become the norm on social media. People appear to lead perfect lives. But can these near-perfect online self-presentations ironically lead to negative outcomes: perhaps feelings of inauthenticity for a message creator, or envy in an audience member? This line of research aims to rethink what it means to optimize one's online self-presentations and avoid contributing to a toxic social media environment.
+Showing that one is confident, successful, having a good time, or good looking has become the norm on social media. People appear to lead perfect lives. But can these near-perfect online self-presentations ironically lead to negative outcomes: perhaps feelings of inauthenticity for a message creator, or envy in an audience member? 
+
+This line of research has several aims. First, it seeks to rethink what it means to optimize one's online self-presentations and avoid contributing to toxic positivity. Second, it strives to learn more about how media content that is thematically non-hedonic (such as those related to melancholy, nature, art, gratitude, or bouncing back from failures) can be perceived as meaningful.
