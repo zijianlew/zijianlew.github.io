@@ -15,6 +15,6 @@ This course introduces students to social science experiments and content analys
 
 ---
 
-## [no course code yet] Impression Management and Self-Presentation Online
+## CS4196: Impression Management and Self-Presentation Online
 
 This course deals with the intrapersonal, interpersonal, and group aspects of impression management, while being sensitive to different types of selves that people may have and the technological affordances that facilitate/impede the expression of those selves online. Applications to social issues such as moral grandstanding, toxic positivity, and online dating are discussed.
