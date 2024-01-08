@@ -112,4 +112,4 @@ bundler exec jekyll serve
 4. Enter in browser:
 http://localhost:4000/
 
-Note: Last updated date is changed in _congif.yml
+Note: Last updated date is changed in _config.yml

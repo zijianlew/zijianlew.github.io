@@ -5,13 +5,19 @@ layout: page
 ---
 ## CS4075: Evaluating & Producing Campaign Results
 
-This course equips students with the methods to evaluate the effectiveness of a communication campaign, from the planning stage to the post-campaign stage. There is a focus on quasi-experimental methods and crafting good questions.
+This course equips students with the methods to evaluate the effectiveness of a communication campaign, from the planning stage to the post-campaign stage. There is an emphasis on quasi-experimental methods and crafting good questions.
 
 ---
 
 ## CS4042: Advanced Research Methods
 
-This course introduces students to social science experiments and content analyses. Topics such as measurement, study design, data analysis, and result interpretation/reporting are covered.
+This course introduces students to social science experiments and content analyses. Topics such as measurement, study design, data analysis, and result interpretation/reporting are also covered.
+
+---
+
+## CS4037: Audience Research Methods
+
+This course focuses on surveys and focus groups, and includes — among other things — study design,  measurement, making statistical inferences, thematizing interview data, and reporting results.
 
 ---
 
