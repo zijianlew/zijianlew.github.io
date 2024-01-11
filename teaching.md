@@ -24,3 +24,9 @@ This course focuses on surveys and focus groups, and includes — among other th
 ## CS4196: Impression Management and Self-Presentation Online
 
 This course deals with the intrapersonal, interpersonal, and group aspects of impression management, while being sensitive to different types of selves that people may have and the technological affordances that facilitate/impede the expression of those selves online. Applications to social issues such as moral grandstanding, toxic positivity, and online dating are discussed.
+
+---
+
+## CS4004/4040: Final-Year Project
+
+Mentoring students for their honors theses.
