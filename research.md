@@ -22,8 +22,18 @@ The basic idea is this: The things that people say publicly demand some social c
 
 ## Meaningfulness in Media
 
-![toxic_positivity](/assets/images/toxic_positivity_small.png)
+![meaningfulness](/assets/images/lookingout.png)
 
 Showing that one is confident, successful, having a good time, or good looking has become the norm on social media. People appear to lead perfect lives. But can these near-perfect online self-presentations ironically lead to negative outcomes: perhaps feelings of inauthenticity for a message creator, or envy in an audience member? 
 
 This line of research has several aims. First, it seeks to rethink what it means to optimize one's online self-presentations and avoid contributing to toxic positivity. Second, it strives to learn more about how media content that is thematically non-hedonic (such as those related to melancholy, nature, art, gratitude, or bouncing back from failures) can be perceived as meaningful.
+
+---
+
+## Online Information Acquisition and Metacognition
+
+![learning](/assets/images/infoacquisition.png)
+
+When people attempt to learn something (e.g., a scientific topic, more about another person), their own thoughts and feelings about the learning process may influence their subjective judgments concerning the learning outcome. For instance, a cognitively fluent learning process may engender greater (undue) confidence in one's knowledge than a disfluent learning process. Even though these subjective judgments may occasionally be inaccurate, people nevertheless use them to determine how much time and effort they should put into learning.
+
+My research in this domain attempts to explore how the way people think/feel about their learning process can influence their perceptions of their own knowledge or of their own intellectual abilities.
