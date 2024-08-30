@@ -4,7 +4,7 @@ permalink: "/research/"
 layout: page
 ---
 
-My research comprises two broad areas in online/social media contexts: self-effects and meaningfulness in media. 
+My research comprises three broad areas in online/social media contexts, described below. 
 
 A list of my published research can be found on my [Google Scholar](https://scholar.google.com/citations?user=AdxYcLkAAAAJ){:target="_blank"} page.
 
@@ -30,7 +30,7 @@ This line of research has several aims. First, it seeks to rethink what it means
 
 ---
 
-## Online Information Acquisition and Metacognition
+## Metacognition in Online Information Acquisition
 
 ![learning](/assets/images/infoacquisition.png)
 
