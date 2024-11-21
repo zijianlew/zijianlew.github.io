@@ -30,7 +30,7 @@ This line of research has several aims. First, it seeks to rethink what it means
 
 ---
 
-## Cognition & Metacognition in Online Learning
+## Cognition & Metacognition in Digital Environments
 
 ![learning](/assets/images/infoacquisition.png)
 
