@@ -26,7 +26,7 @@ The basic idea is this: The things that people say publicly demand some social c
 
 Showing that one is confident, successful, having a good time, or good looking has become the norm on social media. People appear to lead perfect lives. But can these near-perfect online self-presentations ironically lead to negative outcomes: perhaps feelings of inauthenticity for a message creator, or envy in an audience member? 
 
-This line of research has several aims. First, it seeks to rethink what it means to optimize one's online self-presentations and avoid contributing to toxic positivity. Second, it strives to learn more about how media content that is thematically non-hedonic (such as those related to melancholy, nature, art, gratitude, or bouncing back from failures) can be perceived as meaningful.
+This line of research has several aims. First, it seeks to rethink what it means to optimize one's online self-presentations and avoid contributing to toxic positivity. Second, it strives to learn more about how media content that is thematically non-hedonic (such as those related to transience, melancholy, nature, art, gratitude, or bouncing back from failures) can be perceived as meaningful.
 
 ---
 

@@ -28,6 +28,6 @@ This course equips students with the methods to evaluate the effectiveness of a 
 
 ---
 
-## CS4004/4040: Final-Year Project
+## CS4004: Final-Year Project
 
 Mentoring students for their honors theses.
