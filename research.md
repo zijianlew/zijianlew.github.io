@@ -36,4 +36,4 @@ This line of research has several aims. First, it seeks to rethink what it means
 
 When people attempt to learn something (e.g., a scientific topic, more about another person), their own thoughts and feelings about the learning process may influence their subjective judgments concerning the learning outcome. For instance, a cognitively fluent learning process may engender greater (undue) confidence in one's knowledge than a disfluent learning process. Even though these subjective judgments may occasionally be inaccurate, people nevertheless use them to determine how much time and effort they should put into learning.
 
-My research in this domain explores how the way people think/feel about their learning process can influence their perceptions of their own knowledge or of their own intellectual abilities.
+My research in this domain explores how the way people think/feel about their web-based learning process (e.g., how they use generative AI or search engines) can influence their perceptions of their own knowledge or of their own intellectual abilities.
