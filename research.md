@@ -14,7 +14,11 @@ A list of my published research can be found on my [Google Scholar](https://scho
 
 ![self_presentation](/assets/images/use_phone.png)
 
-I study online self-presentation from the perspectives of message senders and audiences. For the former, I am interested in how message senders influence their own cognitions and emotions when they share things about themselves (e.g., past experiences, opinions on various issues) on social media. For the latter, I am interested in how audiences construe what authenticity is in online self-presentations. Relatedly, how do audiences understand and interpret the need for message senders to perform authenticity in order to be perceived as genuinely authentic? 
+I study online self-presentation from the perspectives of message senders and audiences. 
+
+For message senders, I am interested in how people influence their own cognitions and emotions when they share things about themselves (e.g., past experiences, opinions on various issues) on social media. Additionally, what are the mechanisms that reinforce or undermine these self-effects?
+
+Where audiences are concerned, I am interested in how people construe the extent to which another person's online self-presentation (or even an organization's assertions about itself) is authentic. Relatedly, how do audiences understand and interpret the need for message senders to perform authenticity in order to be perceived as genuinely authentic? 
 
 ---
 
