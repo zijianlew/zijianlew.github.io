@@ -10,13 +10,11 @@ A list of my published research can be found on my [Google Scholar](https://scho
 
 ---
 
-## Self-Effects
+## Online Self-Presentation
 
-![self_effects](/assets/images/use_phone.png)
+![self_presentation](/assets/images/use_phone.png)
 
-Traditionally, studies on media effects have tended to ask, how does media selection or consumption affect audiences? But with the proliferation of social media today, a new line of research has emerged that reverses this traditional way of thinking. Research on self-effects asks, how does the sending of messages (e.g., on social media) influence the message senders themselves?
-
-The basic idea is this: The things that people say publicly demand some social commitment, as people's social media contacts may hold them accountable. How can we better understand the social and psychological mechanisms that lead to and result from social commitment? How can we apply this principle in order to, among other things, alter one's self-concept, encourage healthy behaviors, or change negative attitudes?
+I study online self-presentation from the perspective of message senders and audiences. For the former, I am interested in how message senders influence their own cognitions and emotions when the share things about themselves (e.g., past experiences, opinions on various issues) on social media. For the latter, I am interested in how audiences construe what is authenticity in relation to online self-presentation. Relatedly, how do audiences understand and interpret the need for message senders to perform authenticity in order to be perceived as genuinely authentic? 
 
 ---
 
