@@ -1,6 +1,6 @@
 title: "Lew"
 author: "Lew"
-description: "Last updated 11 Aug 2025"
+description: "Last updated 10 Jan 2026"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -25,7 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=AdxYcLkAAAAJ"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0003-1769-7898"}
   - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/zijian-lew-b0ab8626/"}
-  - {title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/leuuzj.bsky.social"}
+#  - {title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/leuuzj.bsky.social"}
 #  - {title: X/Twitter, icon: x-twitter, url: "https://twitter.com/leuuzj"}
 # you'll need to update the icons.json file before a new icon can be used. Give it a name and update the path based on fontawesome.com/icons 
 

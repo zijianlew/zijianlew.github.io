@@ -16,9 +16,11 @@ A list of my published research can be found on my [Google Scholar](https://scho
 
 I study online self-presentation from the perspectives of message senders and audiences. 
 
-For message senders, I am interested in how people influence their own cognitions and emotions when they share things about themselves (e.g., past experiences, opinions on various issues) on social media. Additionally, what are the mechanisms that reinforce or undermine these self-effects?
+For message senders, I am interested in how people influence their own cognitions and emotions when they share things about themselves (e.g., past experiences, opinions on various issues) on social media. Wow do message senders perform authenticity? Additionally, what are the mechanisms that reinforce or undermine these self-effects?
 
 Where audiences are concerned, I am interested in how people construe the extent to which another person's online self-presentation (or even an organization's assertions about itself) is authentic. Relatedly, how do audiences understand and interpret the need for message senders to perform authenticity in order to be perceived as genuinely authentic? 
+
+My older work in this domain deals with (perceived) interactivity in dyadic online chats and static social media posts. 
 
 ---
 
@@ -28,7 +30,7 @@ Where audiences are concerned, I am interested in how people construe the extent
 
 Showing that one is confident, successful, having a good time, or good looking has become the norm on social media. People appear to lead perfect lives. But can these near-perfect online self-presentations ironically lead to negative outcomes: perhaps feelings of inauthenticity for a message creator, or envy in an audience member? 
 
-This line of research has several aims. First, it seeks to rethink what it means to optimize one's online self-presentations and avoid contributing to toxic positivity. Second, it strives to learn more about how media content that is thematically non-hedonic (such as those related to transience, melancholy, nature, art, gratitude, or bouncing back from failures) can be perceived as meaningful.
+This line of research has several aims. First, it seeks to examine what it means to self-present meaningfully in digital environments. Second, it strives to learn more about how media content that is thematically non-hedonic (such as those related to transience, melancholy, nature, art, gratitude, or bouncing back from failures) can be perceived as meaningful.
 
 ---
 
