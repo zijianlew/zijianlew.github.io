@@ -10,6 +10,12 @@ This course deals with the intrapersonal, interpersonal, and group aspects of im
 
 ---
 
+## CS2409 Media, Emotions, and Meaningfulness
+
+This course examines media content (e.g., films, social media clips) from a psychological perspective, focusing on the emotions they portray. It explores questions such as: How do people appraise these emotions? How do these emotions influence our behaviors? And how do these emotions contribute to a sense of meaningfulness for us as we live our daily lives?
+
+---
+
 ## CS4042: Advanced Research Methods
 
 This course introduces students to social science experiments and content analyses. Topics such as measurement, study design, data analysis, and result interpretation/reporting are also covered.
