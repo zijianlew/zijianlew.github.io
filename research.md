@@ -4,7 +4,7 @@ permalink: "/research/"
 layout: page
 ---
 
-My research comprises three broad areas in online/social media contexts: self-presentation, meaningfulness, and cognition/metacognition. 
+My research comprises three broad areas in digital environments: self-presentation, meaningfulness, and (meta)cognition. 
 
 A list of my published research can be found [below](#publications) and on my [Google Scholar](https://scholar.google.com/citations?user=AdxYcLkAAAAJ){:target="_blank"} page.
 
