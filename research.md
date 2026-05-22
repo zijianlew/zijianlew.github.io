@@ -4,7 +4,7 @@ permalink: "/research/"
 layout: page
 ---
 
-My research comprises three broad areas in online/social media contexts, described below. 
+My research comprises three broad areas in online/social media contexts: online self-presentation, meaningfulness in media, and cognition/metacognition in digital environments. 
 
 A list of my published research can be found [below](#publications) and on my [Google Scholar](https://scholar.google.com/citations?user=AdxYcLkAAAAJ){:target="_blank"} page.
 
@@ -46,31 +46,33 @@ My research in this domain explores how the way people think/feel about their we
 
 ## Publications
 
-- Lew, Z., & Looi, J. (2026). Disclosing Vulnerability on Social Media: Effects on Perceived Authenticity and Interpersonal Attraction. *Computers in Human Behavior*. Advanced online publication. https://doi.org/10.1016/j.chb.2026.108986 [[view]](https://www.sciencedirect.com/science/article/pii/S074756322600083X){:target="_blank"}
+- Wong, S. S., Wan, A. L., & Lew, Z. (2025). Is "Good vibes only" really good? Investigating perceptions of toxic positivity on social media. *New Media & Society*. Advance online publication.
+<br>https://doi.org/10.1177/14614448251396941 [[view]](/articles/WongWanLew2025_ToxicPositivity.pdf){:target="_blank"}
 
-- Wong, S. S., Wan, A. L., & Lew, Z. (2025). Is "Good vibes only" really good? Investigating perceptions of toxic positivity on social media. *New Media & Society*. Advance online publication. https://doi.org/10.1177/14614448251396941 [[view]](/articles/WongWanLew2025_ToxicPositivity.pdf){:target="_blank"}
+- Lew, Z., & Looi, J. (2026). Disclosing Vulnerability on Social Media: Effects on Perceived Authenticity and Interpersonal Attraction. *Computers in Human Behavior*, *181*, 108986. 
+<br>https://doi.org/10.1016/j.chb.2026.108986 [[view]](https://www.sciencedirect.com/science/article/pii/S074756322600083X){:target="_blank"}
 
-- Lew, Z., & Looi, J. (2025). Protective self-presentation for audiences with interdependent self-construals on ephemeral platforms: The case of humblebragging. *Media Psychology*, *28*(6), 789-816. https://doi.org/10.1080/15213269.2025.2452492 [[view]](/articles/LewLooi2025_ProtectiveSelfPresentation.pdf){:target="_blank"}
+- Lew, Z., & Looi, J. (2025). Protective self-presentation for audiences with interdependent self-construals on ephemeral platforms: The case of humblebragging. *Media Psychology*, *28*(6), 789-816. <br>https://doi.org/10.1080/15213269.2025.2452492 [[view]](/articles/LewLooi2025_ProtectiveSelfPresentation.pdf){:target="_blank"}
 
-- Lew, Z., & Flanagin, A. J. (2025). Toxic positivity on social media: The drawbacks and benefits of sharing positive (but potentially platitudinous) messages online. *New Media & Society*, *27*(5), 2972-2995. https://doi.org/10.1177/14614448231213944 [[view]](/articles/LewFlanagin2025_ToxicPositivity.pdf){:target="_blank"}
+- Lew, Z., & Flanagin, A. J. (2025). Toxic positivity on social media: The drawbacks and benefits of sharing positive (but potentially platitudinous) messages online. *New Media & Society*, *27*(5), 2972-2995. <br>https://doi.org/10.1177/14614448231213944 [[view]](/articles/LewFlanagin2025_ToxicPositivity.pdf){:target="_blank"}
 
-- Lew, Z., & Yee, A. Z. (2024). The awareness, acceptance, and appreciation of transience in the domain of eudaimonic media experiences. *New Media & Society*, *28*(1), 76-98. https://doi.org/10.1177/14614448241284612 [[view]](/articles/LewYee2026_MonoNoAware.pdf){:target="_blank"}
+- Lew, Z., & Yee, A. Z. (2024). The awareness, acceptance, and appreciation of transience in the domain of eudaimonic media experiences. *New Media & Society*, *28*(1), 76-98. <br>https://doi.org/10.1177/14614448241284612 [[view]](/articles/LewYee2026_MonoNoAware.pdf){:target="_blank"}
 
-- Lew, Z., & Flanagin, A. J. (2024). The influence of feeling-of-knowing on metacognitive processes in the digital media environment. *Journal of Media Psychology*, *37*(3), 158-169. https://doi.org/10.1027/1864-1105/a000426 [[view]](/articles/LewFlanagin2024_FoK.pdf){:target="_blank"}
+- Lew, Z., & Flanagin, A. J. (2024). The influence of feeling-of-knowing on metacognitive processes in the digital media environment. *Journal of Media Psychology*, *37*(3), 158-169. <br>https://doi.org/10.1027/1864-1105/a000426 [[view]](/articles/LewFlanagin2024_FoK.pdf){:target="_blank"}
 
-- Lew, Z., & Stohl, C. (2024). News/discussion values and interactivity in corporate social responsibility communication via social media. *Management Communication Quarterly*, *38*(4), 775-800. https://doi.org/10.1177/08933189241261671 [[view]](/articles/LewStohl2024_MCQ.pdf){:target="_blank"}
+- Lew, Z., & Stohl, C. (2024). News/discussion values and interactivity in corporate social responsibility communication via social media. *Management Communication Quarterly*, *38*(4), 775-800. <br>https://doi.org/10.1177/08933189241261671 [[view]](/articles/LewStohl2024_MCQ.pdf){:target="_blank"}
 
-- Lew, Z., & Flanagin, A. J. (2024). Self-effects and public commitment on social media: Testing the cognitive and social influences of sending messages on message senders. *Computers in Human Behavior*, *156*, 108200. https://doi.org/10.1016/j.chb.2024.108200 [[view]](/articles/LewFlanagin2024_SelfEffects.pdf){:target="_blank"}
+- Lew, Z., & Flanagin, A. J. (2024). Self-effects and public commitment on social media: Testing the cognitive and social influences of sending messages on message senders. *Computers in Human Behavior*, *156*, 108200. <br>https://doi.org/10.1016/j.chb.2024.108200 [[view]](/articles/LewFlanagin2024_SelfEffects.pdf){:target="_blank"}
 
 - Lew, Z., & Stohl, C. (2023). What makes people willing to comment on social media posts? The roles of interactivity and perceived contingency in online corporate social responsibility communication. *Communication Monographs*, *90*(1), 1-24. https://doi.org/10.1080/03637751.2022.2032230 [[view]](/articles/LewStohl2023_WillingnessToComment.pdf){:target="_blank"}
 
 - Flanagin, A. J., & Lew, Z. (2023). Individual inferences in web-based information environments: How cognitive processing fluency, information access, active search behaviors, and task competency affect metacognitive and task judgments. *Media Psychology*, *26*(1), 17-35. https://doi.org/10.1080/15213269.2022.2085116 [[view]](/articles/FlanaginLew2023_Metacognition.pdf){:target="_blank"}
 
-- Lew, Z., & Walther, J. B. (2023). Social scripts and expectancy violations: Evaluating communication with human or AI chatbot interactants. *Media Psychology*, *26*(1), 1-16. https://doi.org/10.1080/15213269.2022.2084111 [[view]](/articles/LewWalther2023_SocialRobots.pdf){:target="_blank"}
+- Lew, Z., & Walther, J. B. (2023). Social scripts and expectancy violations: Evaluating communication with human or AI chatbot interactants. *Media Psychology*, *26*(1), 1-16. <br>https://doi.org/10.1080/15213269.2022.2084111 [[view]](/articles/LewWalther2023_SocialRobots.pdf){:target="_blank"}
 
-- Walther, J. B., Lew, Z., Edwards, A. L., & Quick, J. (2022). The effect of social approval on perceptions following social media message sharing applied to fake news. *Journal of Communication*, *72*(6), 661-674. https://doi.org/10.1093/joc/jqac033 [[view]](/articles/WaltherLewEdwardsQuick2022.pdf){:target="_blank"}
+- Walther, J. B., Lew, Z., Edwards, A. L., & Quick, J. (2022). The effect of social approval on perceptions following social media message sharing applied to fake news. *Journal of Communication*, *72*(6), 661-674. <br>https://doi.org/10.1093/joc/jqac033 [[view]](/articles/WaltherLewEdwardsQuick2022.pdf){:target="_blank"}
 
-- Walther, J. B., & Lew, Z. (2022). Self-transformation online through alternative presentations of self: a review, critique, and call for research. *Annals of the International Communication Association*, *46*(3), 135-158. https://doi.org/10.1080/23808985.2022.2096662 [[view]](https://www.tandfonline.com/doi/full/10.1080/23808985.2022.2096662){:target="_blank"}
+- Walther, J. B., & Lew, Z. (2022). Self-transformation online through alternative presentations of self: a review, critique, and call for research. *Annals of the International Communication Association*, *46*(3), 135-158. <br>https://doi.org/10.1080/23808985.2022.2096662 [[view]](https://www.tandfonline.com/doi/full/10.1080/23808985.2022.2096662){:target="_blank"}
 
 - Lew, Z., Walther, J. B., Pang, A., & Shin, W. (2018). Interactivity in online chat: Conversational contingency and response latency in computer-mediated communication. *Journal of Computer-Mediated Communication*, *23*(4), 201-221. https://doi.org/10.1093/jcmc/zmy009 [[view]](https://academic.oup.com/jcmc/article/23/4/201/5033037){:target="_blank"}
 
