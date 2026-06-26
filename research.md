@@ -46,6 +46,8 @@ My research in this domain explores how the way people think/feel about their we
 
 ## Publications
 
+- Lew, Z., & Yee, A. Z. (2026). The awareness, acceptance, and appreciation of transience in the domain of eudaimonic media experiences. *New Media & Society*, *28*(1), 76-98. [[view]](/articles/LewYee2026_MonoNoAware.pdf){:target="_blank"}
+
 - Wong, S. S., Wan, A. L., & Lew, Z. (2025). Is "Good vibes only" really good? Investigating perceptions of toxic positivity on social media. *New Media & Society*. Advance online publication. [[view]](/articles/WongWanLew2025_ToxicPositivity.pdf){:target="_blank"}
 
 - Lew, Z., & Looi, J. (2026). Disclosing Vulnerability on Social Media: Effects on Perceived Authenticity and Interpersonal Attraction. *Computers in Human Behavior*, *181*, 108986. 
@@ -54,8 +56,6 @@ My research in this domain explores how the way people think/feel about their we
 - Lew, Z., & Looi, J. (2025). Protective self-presentation for audiences with interdependent self-construals on ephemeral platforms: The case of humblebragging. *Media Psychology*, *28*(6), 789-816. [[view]](/articles/LewLooi2025_ProtectiveSelfPresentation.pdf){:target="_blank"}
 
 - Lew, Z., & Flanagin, A. J. (2025). Toxic positivity on social media: The drawbacks and benefits of sharing positive (but potentially platitudinous) messages online. *New Media & Society*, *27*(5), 2972-2995. [[view]](/articles/LewFlanagin2025_ToxicPositivity.pdf){:target="_blank"}
-
-- Lew, Z., & Yee, A. Z. (2024). The awareness, acceptance, and appreciation of transience in the domain of eudaimonic media experiences. *New Media & Society*, *28*(1), 76-98. [[view]](/articles/LewYee2026_MonoNoAware.pdf){:target="_blank"}
 
 - Lew, Z., & Flanagin, A. J. (2024). The influence of feeling-of-knowing on metacognitive processes in the digital media environment. *Journal of Media Psychology*, *37*(3), 158-169. [[view]](/articles/LewFlanagin2024_FoK.pdf){:target="_blank"}
 
