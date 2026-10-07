@@ -46,7 +46,7 @@ My research in this domain explores how the way people think/feel about their we
 
 ## Publications
 
-1. Lew, Z., Low, J., & Mar, Y. (2026). Clarifying the role of authenticity in online self-effects: examining authentic cognition and authentic self-expression. *Journal of Computer-Mediated Communication*, *31*(5), zmag023. [[view]](/articles/LewLowMar2026_authenticity.pdf){:target="_blank"}
+1. Lew, Z., Low, J., & Mar, Y. (2026). Clarifying the role of authenticity in online self-effects: Examining authentic cognition and authentic self-expression. *Journal of Computer-Mediated Communication*, *31*(5), zmag023. [[view]](/articles/LewLowMar2026_authenticity.pdf){:target="_blank"}
 
 1. Lew, Z., & Yee, A. Z. (2026). The awareness, acceptance, and appreciation of transience in the domain of eudaimonic media experiences. *New Media & Society*, *28*(1), 76-98. [[view]](/articles/LewYee2026_MonoNoAware.pdf){:target="_blank"}
 
