@@ -46,6 +46,8 @@ My research in this domain explores how the way people think/feel about their we
 
 ## Publications
 
+- Lew, Z., Low, J., & Mar, Y. (2026). Clarifying the role of authenticity in online self-effects: examining authentic cognition and authentic self-expression. *Journal of Computer-Mediated Communication*, *31*(5), zmag023. [[view]](/articles/LewLowMar2026_authenticity.pdf){:target="_blank"}
+
 - Lew, Z., & Yee, A. Z. (2026). The awareness, acceptance, and appreciation of transience in the domain of eudaimonic media experiences. *New Media & Society*, *28*(1), 76-98. [[view]](/articles/LewYee2026_MonoNoAware.pdf){:target="_blank"}
 
 - Wong, S. S., Wan, A. L., & Lew, Z. (2025). Is "Good vibes only" really good? Investigating perceptions of toxic positivity on social media. *New Media & Society*. Advance online publication. [[view]](/articles/WongWanLew2025_ToxicPositivity.pdf){:target="_blank"}
