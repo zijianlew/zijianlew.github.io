@@ -26,11 +26,11 @@ Where audiences are concerned, I study how people form perceptions of other peop
 
 ![learning](/assets/images/infoacquisition.png)
 
-People can influence themselves (i.e., experience self-effects) due to the process of using particular communication tools. 
+People can influence themselves (i.e., experience self-effects) due to the process of using digital communication tools. 
 
 When people attempt to learn something (e.g., a scientific topic, more about another person), their own thoughts and feelings about the learning process may influence their subjective judgments of the learning outcome. For instance, a cognitively fluent learning process may engender greater (undue) confidence in one's knowledge than a disfluent learning process. Even though these subjective judgments may occasionally be inaccurate, people nevertheless use them to determine how much time and effort they should put into learning.
 
-When people use generative AI tools to craft messages, the subjective experience of using these tools (e.g., being reliant, being fast, experiencing cognitive fluency or a sense of frictionlessness) may blur the lines between what aspect of the process/output they attribute to themselves or to the generative AI tool.
+When people use generative AI tools to craft messages, the subjective experience of using these tools (e.g., being reliant, being fast, experiencing cognitive fluency or a sense of frictionlessness) may blur the lines between what aspect of the process/output they attribute to themselves or to the generative AI tool. For example, the more fluent a writing experience feels, the more people may believe that they produced the message even if generative AI did most of the work.
 
 My research in this domain explores how people's thoughts/feelings about their message production or information-seeking processes using digital technology can influence their self-perceptions.
 
