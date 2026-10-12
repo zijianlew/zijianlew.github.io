@@ -105,6 +105,7 @@ bundle update --bundler
 
 2. Change current directory:
 cd [full local directory for Github repo]
+(or navigate to the appropriate folder and type cmd in the address bar)
 
 3. Serve locally:
 bundler exec jekyll serve
